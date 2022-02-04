@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Yadav3sr (Santosh Yadav, Ph.D)
+- 👋 Hi, I’m @Yadav3sr (Santosh Yadav, Ph.D.)
 - 👀 I’m interested in data exploration and making insightful results from it.
 - 🌱 I’m currently learning various machine learning algorithm and understanding big data management system.
 - 💞️ I’m looking to collaborate on advancing the knowledge in the field of ML/AI
